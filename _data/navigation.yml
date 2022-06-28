@@ -1,0 +1,110 @@
+# main links
+main:
+  - title: "**Contributors**"  
+    url: /Contributors/  
+  - title: "Chess"
+    url: /Chess/    
+  - title: "Physics"
+    url: /Physics/
+  - title: "Jekyll"
+    url: /Jekyll/    
+  - title: "Journal"
+    url: /Journal/ 
+  - title: Music
+    url: /Music/  
+  - title: Coding
+    url: /Coding/
+  - title: Meteorology
+    url: /Meteorology/  
+
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+Chess:
+  - title: Chess
+    children:
+      - title: "Stafford Gambit"
+        url: /Chess/Stafford/
+      - title: "Daily Chess Puzzles" 
+        url: /Chess/ChessPuzzles/
+      - title: "Learning Blind Chess" 
+        url: /Chess/BlindChess/
+      - title: Chess AI Analysis
+        url: /Chess/ChessAI/ 
+      - title: How Should I learn Chess
+        url: /Chess/learning/ 
+Jekyll:
+  - title: Jekyll Tutorials
+    children:
+      - title: "Downloading and Using Jekyll (Window Users)"
+        url: /Jekyll/UsingJekyll/
+      - title: " Jekyll Tutorials" 
+        url: /Jekyll/tutorials/ 
+      - title: "Jekyll Problems Q&A " 
+        url: /Jekyll/Q&A/ 
+      - title: "Jekyll Skins" 
+        url: /Jekyll/skins/ 
+      - title: "Jekyll and KaTeX"
+        url: /Jekyll/Katex/
+      - title: "Introduction to Algolia"  
+        url: /Jekyll/Algolia/
+
+Physics:
+  - title: Physics
+    children:
+      - title: "Astrophysics"
+        url: /Physics/Astrophysics/
+      - title: "Beyond a cursory look at the structure of the Lorentz factor (Leo Chow)" 
+        url: /Jekyll/Relativity/ 
+  
+Journal:
+  - title: Journal
+    children:
+      - title: "How to study Physics? "
+        url: /Journal/HowtostudyPhysics/
+      - title: "My Progress in everything" 
+        url: /Journal/Progress/ 
+
+Contributors:
+  - title: Contributors
+    children:
+      - title: "Henry Yip"
+        url: /Contributors/HenryYip/
+      - title: "Michael So" 
+        url: /Contributors/MichaelSo/
+      - title: "Amanda Ng"
+        url: /Contributors/AmandaNg/
+      - title: "Andy Ng"    
+        url: /Contributors/AndyNg/
+
+Music:
+  - title: Music
+    children:
+      - title: "How to study Physics? "
+        url: /Music/classicalplaylist/ 
+
+Coding:
+  - title: Coding
+    children:
+      - title: "Random Number Generator - Cutoff Game"
+        url: /Coding/Cutoff/ 
+      - title: "Twin Primes"  
+        url: /Coding/TwinPrimes/
+      - title: "Prime Gap"  
+        url: /Coding/PrimeGap/
+
+Meteorology:
+  - title: Meteorology
+    children:
+      - title: "Tropical Cyclones"
+        url: /Meteorology/TropicalCyclones/ 
+
+
+  
+
+     
+
+
+
+
+     

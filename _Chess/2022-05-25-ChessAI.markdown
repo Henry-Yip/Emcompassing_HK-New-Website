@@ -1,0 +1,14 @@
+---
+layout: single
+header:
+  teaser: /assets/images/Chess.jpg
+title: Chess AI Analysis 
+katex: False
+tags: Chess
+permalink: /Chess/ChessAI/  
+sidebar:
+ nav: "Chess"
+---
+ - [Game 1]({% link _Chess/2022-06-05-Game1.markdown %})
+ - [Game 2]({% link _Chess/2022-06-05-Game2.markdown %})
+ - [Game 3]({% link _Chess/2022-06-12-Game3.markdown %})
